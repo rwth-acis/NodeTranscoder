@@ -1,0 +1,11 @@
+{
+  "name": "node-transcoder",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Video Transcoder",
+  "author": "István Koren <mail@istvank.eu>",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.0.0-rc3",
+    "formidable": "^1.0.17"
+  }
+}
