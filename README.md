@@ -5,7 +5,7 @@ A lightweight, five-line (don't take this too seriously...) video transcoder ser
 First, build it using `docker build -t transcoder .`
 Then, run it by using `docker run -i -t --rm -p 8080:8080 -v `pwd`:/transcode transcoder`
 
-##Licence
+##License
 
 ```
 Copyright 2015 RWTH Aachen University
